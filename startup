@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-killall polybar
+killall polybar 
 (sleep 1; polybar top) &
 (sleep 1; polybar bottom) &
