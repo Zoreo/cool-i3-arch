@@ -1,3 +1,3 @@
-# cool-i3-arch
+# old-i3-arch
 
 dotfiles 
